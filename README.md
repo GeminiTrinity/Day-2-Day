@@ -8,6 +8,9 @@
 * [Future Scope](#Future-Scope)  
 * [Questions](#Questions)
 
+- Website: https://geminitrinity.github.io/Day-2-Day/
+- Github: https://github.com/GeminiTrinity/Day-2-Day
+
 ## Features
 - See current date and time
 - Save and update notes for each hour block
@@ -23,7 +26,7 @@
 2. Once you've finished your note, hit the save icon
 3. When you refresh or leave the site, you'll be able to see your previously saved notes when you return to the site
 
-![Demo](./assets/demo.gif)
+![Demo](https://user-images.githubusercontent.com/70424037/106088917-db273a80-60f4-11eb-8fd9-18592856c883.gif)
 
 ## Technologies Used
 - [Moment](https://momentjs.com/)
