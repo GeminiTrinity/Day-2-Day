@@ -8,7 +8,6 @@
 * [Future Scope](#Future-Scope)  
 * [Questions](#Questions)
 
-<br>
 - Website: https://geminitrinity.github.io/Day-2-Day/
 - Github: https://github.com/GeminiTrinity/Day-2-Day
 
