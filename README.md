@@ -8,9 +8,9 @@
 * [Future Scope](#Future-Scope)  
 * [Questions](#Questions)
 
-#Links
-https://geminitrinity.github.io/Day-2-Day/
-https://github.com/GeminiTrinity/Day-2-Day
+
+Website: https://geminitrinity.github.io/Day-2-Day/
+Github: https://github.com/GeminiTrinity/Day-2-Day
 
 ## Features
 - See current date and time
