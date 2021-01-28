@@ -23,7 +23,7 @@
 2. Once you've finished your note, hit the save icon
 3. When you refresh or leave the site, you'll be able to see your previously saved notes when you return to the site
 
-![Demo](./assets/demo.wmv)
+![Demo](./assets/demo.gif)
 
 ## Technologies Used
 - [Moment](https://momentjs.com/)
