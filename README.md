@@ -9,8 +9,8 @@
 * [Questions](#Questions)
 
 
-Website: https://geminitrinity.github.io/Day-2-Day/
-Github: https://github.com/GeminiTrinity/Day-2-Day
+- Website: https://geminitrinity.github.io/Day-2-Day/
+- Github: https://github.com/GeminiTrinity/Day-2-Day
 
 ## Features
 - See current date and time
