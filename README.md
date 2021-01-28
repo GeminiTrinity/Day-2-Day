@@ -8,6 +8,10 @@
 * [Future Scope](#Future-Scope)  
 * [Questions](#Questions)
 
+#Links
+https://geminitrinity.github.io/Day-2-Day/
+https://github.com/GeminiTrinity/Day-2-Day
+
 ## Features
 - See current date and time
 - Save and update notes for each hour block
